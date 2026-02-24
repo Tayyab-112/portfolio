@@ -10,7 +10,7 @@ html {
 }
 
 .header {
-    background-image: url('./image/bg.webp');
+    background-image: url('bg.webp');
     background-attachment: fixed;
 }
 
@@ -382,7 +382,7 @@ button.btn.btn-menue {
 }
 
 .contact-us {
-    background-image: url('./image/1.jpg.webp');
+    background-image: url('jpg.webp');
     background-attachment: fixed;
 }
 
@@ -560,4 +560,5 @@ i.fa-solid.fa-period {
         color: #39b54a;
         font-weight: 600;
     }
+
 }
